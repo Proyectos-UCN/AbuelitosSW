@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour
+
 {
+    Animator anim;
     public float speed = 4f;
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -24,5 +26,7 @@ public class Player : MonoBehaviour
             transform.position + mov,
             speed * Time.deltaTime
         );
+        anim.SetFloat("movx",mov.x);
+        anim.SetFloat("movy",mov.y);
     }
 }
