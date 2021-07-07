@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Code\Object.cs" />
     <Compile Include="Assets\Code\Player.cs" />
+    <Compile Include="Assets\Code\cameraFollow.cs" />
     <Compile Include="Assets\Code\objectCollected.cs" />
     <Compile Include="Assets\Code\switchScene.cs" />
     <Reference Include="UnityEngine">
