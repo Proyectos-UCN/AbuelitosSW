@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: c26b40e5a0d52af4f850e82e6e11a932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3737478958235721528
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_0
+  - first:
+      213: 2790985838884306029
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_1
+  - first:
+      213: -6867379162962216767
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_2
+  - first:
+      213: -6102273272501930635
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_3
+  - first:
+      213: 8340974198261896532
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_4
+  - first:
+      213: 3001538987516728470
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_5
+  - first:
+      213: 3963732790008986837
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_6
+  - first:
+      213: 24198478874795019
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_7
+  - first:
+      213: 1039454198803658796
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_8
+  - first:
+      213: -591941663591352829
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_9
+  - first:
+      213: 5207315189334522005
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_10
+  - first:
+      213: -3251922862340385480
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_11
+  - first:
+      213: 8203671370321384411
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_12
+  - first:
+      213: -527436820418625358
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_13
+  - first:
+      213: -6270407141637286683
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_14
+  - first:
+      213: 2768159953385829045
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_15
+  - first:
+      213: 1096895737066890068
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_16
+  - first:
+      213: -1761791569603156381
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_17
+  - first:
+      213: 6519315874836810926
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_18
+  - first:
+      213: -3753019225159117537
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_19
+  - first:
+      213: 1358145045740683263
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_20
+  - first:
+      213: -1717893239474515468
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_21
+  - first:
+      213: 4710927798021856099
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_22
+  - first:
+      213: -133795777374654482
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_23
+  - first:
+      213: -1977412548563958935
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_24
+  - first:
+      213: -9006668730884833977
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_25
+  - first:
+      213: 3799723912161118733
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_26
+  - first:
+      213: -3256395655756648115
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_27
+  - first:
+      213: -7339486128444320311
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_28
+  - first:
+      213: 6300915618318620742
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_29
+  - first:
+      213: -4088452858526189419
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_30
+  - first:
+      213: 6999758524605782287
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_31
+  - first:
+      213: 3785145813862733850
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_32
+  - first:
+      213: -7583058289274470241
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_33
+  - first:
+      213: 8103247120471584131
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_34
+  - first:
+      213: 8725360977178241701
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_35
+  - first:
+      213: 3766022504512919280
+    second: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 309, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 179-1792122_configuracin-de-teclas-para-el-demo-w-a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 484
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f132d7f413ed330800000000000000
+      internalID: 3737478958235721528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
