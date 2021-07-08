@@ -54,23 +54,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11266}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 11612}
+      Script: {instanceID: 11622}
     - Class: 114
-      Script: {instanceID: 11710}
+      Script: {instanceID: 11720}
     - Class: 114
-      Script: {instanceID: 12276}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 12980}
+      Script: {instanceID: 12990}
     - Class: 114
-      Script: {instanceID: 13536}
+      Script: {instanceID: 13546}
     - Class: 114
-      Script: {instanceID: 13746}
+      Script: {instanceID: 13756}
     - Class: 114
-      Script: {instanceID: 14358}
+      Script: {instanceID: 14368}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -123,11 +123,11 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11316}
+      Script: {instanceID: 11326}
     - Class: 114
-      Script: {instanceID: 13384}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 14038}
+      Script: {instanceID: 14048}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -156,17 +156,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11266}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 11612}
+      Script: {instanceID: 11622}
     - Class: 114
-      Script: {instanceID: 12276}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 13746}
+      Script: {instanceID: 13756}
     - Class: 114
-      Script: {instanceID: 14358}
+      Script: {instanceID: 14368}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -215,25 +215,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11266}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11316}
+      Script: {instanceID: 11326}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 11612}
+      Script: {instanceID: 11622}
     - Class: 114
-      Script: {instanceID: 12276}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 12980}
+      Script: {instanceID: 12990}
     - Class: 114
-      Script: {instanceID: 13350}
+      Script: {instanceID: 13360}
     - Class: 114
-      Script: {instanceID: 13384}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 13746}
+      Script: {instanceID: 13756}
     - Class: 114
-      Script: {instanceID: 14358}
+      Script: {instanceID: 14368}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -286,11 +286,11 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11316}
+      Script: {instanceID: 11326}
     - Class: 114
-      Script: {instanceID: 13384}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 14038}
+      Script: {instanceID: 14048}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -831,4 +831,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/zonaSegura.unity
   - Assets/Scenes/CallMenu.unity
   - Assets/Scenes/credito.unity
-  playerPath: C:/Users/Dionisio/Desktop/JUEGOOO/Abuelitos.exe
+  playerPath: C:/Users/Dionisio/Desktop/a/Abuelitos.exe
