@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/zonaSegura.unity
+- path: Assets/Scenes/CallMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
