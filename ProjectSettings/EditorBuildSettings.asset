@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/zonaSegura.unity
     guid: df8aa5375624f4a43a6cbdad33e9a193
+  - enabled: 1
+    path: Assets/Scenes/CallMenu.unity
+    guid: 4885ebf167a784e469cab712c5d23a0c
   m_configObjects: {}
